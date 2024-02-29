@@ -2,3 +2,5 @@ url: 'https://andybeet.github.io/testpkgdown/'
 template:
   bootstrap: 5
 
+redirects:
+  - [articles/test.html, https://www.google.com]
