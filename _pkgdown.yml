@@ -3,4 +3,4 @@ template:
   bootstrap: 5
 
 redirects:
-  - [articles/test.html, https://www.google.com]
+  - [articles/test.html, articles/testredirect.html]
