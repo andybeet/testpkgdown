@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   test: test.html
   testredirect: testredirect.html
-last_built: 2024-02-29T22:00Z
+last_built: 2024-02-29T22:03Z
 urls:
   reference: https://andybeet.github.io/testpkgdown/reference
   article: https://andybeet.github.io/testpkgdown/articles
