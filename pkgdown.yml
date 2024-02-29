@@ -3,7 +3,7 @@ pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   test: test.html
-last_built: 2024-02-29T21:51Z
+last_built: 2024-02-29T21:56Z
 urls:
   reference: https://andybeet.github.io/testpkgdown/reference
   article: https://andybeet.github.io/testpkgdown/articles
